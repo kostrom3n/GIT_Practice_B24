@@ -1,9 +1,9 @@
 package setup;
 
 public class Car {
-<<<<<<< HEAD
+
     // this is car class from master branch
-=======
+
 
 
     // this is our car from james branch
@@ -12,5 +12,5 @@ public class Car {
 
     // still text
    // salads
->>>>>>> james
+
 }
